@@ -26,6 +26,7 @@ namespace Coupa
             string sXml = "<Request>" + sHeader + GetXmlData("2011-12-31", "30101") + "</Request>";
             //string sDat = DateTime.Now.ToString("CCyyMMddHHmmss");
             //samo mala izmena radi testa
+            //1 samo mala izmena radi testa
         }
 
         private string GetXmlHeader()
